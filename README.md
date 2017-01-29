@@ -4,4 +4,4 @@
 	*Order detail tables having fields: item number,item name,quantity,price,and bill number as foreignkey.
 	*Using django admin-dashboard enter the table contents.
 	*create separate python file named as getdb.py this file converts table data into json.
-	*python manage.py getdb command will return the data
+	*python manage.py getdb command will return database contents in json formate
